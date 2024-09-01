@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher, types, F
 from aiogram.filters.command import Command
 from aiogram.types import Message
 
-TOKEN = '6476560422:AAH054CouMc0gItojp0vCYctmXkp-10T1z8'
+TOKEN = ''
 
 
 async def main():
